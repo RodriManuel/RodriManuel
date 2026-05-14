@@ -1,16 +1,12 @@
-## Hi there 👋
+# <p align="center">Hola, soy Ro!</p>
+## Sobre mí
+Estudio Licenciatura en Informática en la <abbr title="Universidad Nacional de Hurlingham">UNAHUR</abbr>.  <br> 
+Busco orientar mí perfil hacia el desarrollo backend y quiero especializarme en ciencia de datos.
 
-<!--
-**RodriManuel/RodriManuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Otros intereses
+Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el ambientalismo.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Actualmente aprendiendo:
+- Análisis de datos con Python (Matplotlib, Plotly, NumPy, Pandas)
+- Desarrollo web con Django
+- Consumo de APIs y manejo de datos (CSV, JSON, GeoJSON)
