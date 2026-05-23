@@ -11,6 +11,17 @@ Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el 
 - Desarrollo web con Django
 - Consumo de APIs y manejo de datos (CSV, JSON, GeoJSON)
 
+## Mis habilidades
+### Data
+![Static Badge](https://img.shields.io/badge/Python_3.14-3776AB?logo=python&logoColor=FFD43B&color=3776AB)
+![Static Badge](https://img.shields.io/badge/Matplotlib-white?logoColor=white&color=365C8B)
+
+## Proyectos
+### python-data-visualization (🚧Work in Progress)
+Mis prácticas y pequeños análisis basados en los capítulos sobre **análisis de datos** del libro **Python Crash Course** de Erich Matthes.
+
+Visitar informe: https://github.com/RodriManuel/python-data-visualization.git
+
 ## Estadísticas en GitHub
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriManuel&theme=nord&hide_border=true&background=306998&currStreakNum=FFFFFF&sideNums=FFFFFF&locale=es&ring=FFE873&fire=FFD43B&sideLabels=FFE873&currStreakLabel=FFD43B&"/>
