@@ -19,11 +19,10 @@ Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el 
 
 ## Proyectos
 ### Análisis de Datos e Informes
-#### 🚧Work in Progress
+🚧Work in Progress <br>
 <a href="https://github.com/RodriManuel/python-data-visualization">
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RodriManuel&repo=python-data-visualization&theme=city_lights&hide_border=true">
 </a>
-
 
 ## Estadísticas en GitHub
 <p align="center">
