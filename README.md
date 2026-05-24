@@ -17,10 +17,12 @@ Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el 
 ![Static Badge](https://img.shields.io/badge/Matplotlib-white?logoColor=white&color=365C8B)
 
 ## Proyectos
-### python-data-visualization (🚧Work in Progress)
-Mis prácticas y pequeños análisis basados en los capítulos sobre **análisis de datos** del libro **Python Crash Course** de Erich Matthes.
+### Análisis de Datos e Informes
+#### 🚧Work in Progress
+<a href="https://github.com/RodriManuel/python-data-visualization">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RodriManuel&repo=python-data-visualization&theme=city_lights&hide_border=true">
+</a>
 
-Visitar informe: https://github.com/RodriManuel/python-data-visualization.git
 
 ## Estadísticas en GitHub
 <p align="center">
