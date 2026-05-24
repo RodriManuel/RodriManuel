@@ -13,8 +13,9 @@ Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el 
 
 ## Mis habilidades
 ### Data
-![Static Badge](https://img.shields.io/badge/Python_3.14-3776AB?logo=python&logoColor=FFD43B&color=3776AB)
-![Static Badge](https://img.shields.io/badge/Matplotlib-white?logoColor=white&color=365C8B)
+![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B&color=3776AB) <br>
+![Static Badge](https://img.shields.io/badge/Matplotlib-white?logoColor=white&color=365C8B) <br>
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?&logo=Jupyter&logoColor=white)
 
 ## Proyectos
 ### Análisis de Datos e Informes
