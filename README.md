@@ -13,15 +13,20 @@ Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el 
 
 ## Mis habilidades
 ### Data
-![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B&color=3776AB) <br>
-![Static Badge](https://img.shields.io/badge/Matplotlib-white?logoColor=white&color=365C8B) <br>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B&color=3776AB) <br>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?logoColor=white&color=365C8B)
+![Plotly](https://img.shields.io/badge/Plotly-white?logo=plotly&logoColor=white&color=7A76FF) <br>
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?&logo=Jupyter&logoColor=white)
+
+### Otras herramientas
+![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=white&color=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=white&color=181717)
 
 ## Proyectos
 ### Análisis de Datos e Informes
 🚧Work in Progress <br>
 <a href="https://github.com/RodriManuel/python-data-visualization">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RodriManuel&repo=python-data-visualization&theme=city_lights&hide_border=true">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RodriManuel&repo=python-data-visualization&theme=city_lights&hide_border=true&text_color=F8F8FF&title_color=FFD43B">
 </a>
 
 ## Estadísticas en GitHub
