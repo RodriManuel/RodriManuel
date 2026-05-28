@@ -26,10 +26,14 @@ Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el 
 ### Análisis de Datos e Informes
 🚧Work in Progress <br>
 <a href="https://github.com/RodriManuel/python-data-visualization">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RodriManuel&repo=python-data-visualization&theme=city_lights&hide_border=true&text_color=F8F8FF&title_color=FFD43B">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RodriManuel&repo=python-data-visualization&theme=city_lights&hide_border=true&text_color=F8F8FF&title_color=FFD43B&bg_color=">
 </a>
 
 ## Estadísticas en GitHub
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriManuel&theme=nord&hide_border=true&background=306998&currStreakNum=FFFFFF&sideNums=FFFFFF&locale=es&ring=FFE873&fire=FFD43B&sideLabels=FFE873&currStreakLabel=FFD43B&"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriManuel&theme=nord&hide_border=true&background=306998&currStreakNum=FFFFFF&sideNums=FFFFFF&locale=es&ring=FFE873&fire=FFD43B&sideLabels=FFE873&currStreakLabel=FFD43B&">
+</p>
+
+<p align="center">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RodriManuel&langs_count=8&layout=normal&theme=city_lights&hide_border=true&locale=es&title_color=FFD43B&text_color=FFFFFF&bg_color=22476E">
 </p>
