@@ -18,6 +18,17 @@ Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el 
 ![Plotly](https://img.shields.io/badge/Plotly-white?logo=plotly&logoColor=white&color=7A76FF) <br>
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?&logo=Jupyter&logoColor=white)
 
+### Backend
+![Django](https://img.shields.io/badge/Django-white?logo=django&logoColor=white&color=092E20)
+![SQLite](https://img.shields.io/badge/SQLite-white?logo=sqlite&logoColor=white&color=black)
+
+
+### Web
+![HTML](https://img.shields.io/badge/HTML5-white?logo=html5&logoColor=white&color=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-white?logo=css&logoColor=white&color=3C99DC) <br>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&color=7952B3) <br>
+![JavaScript](https://img.shields.io/badge/JavaScript-white?logo=javascript&logoColor=black&color=F7DF1E)
+
 ### Otras herramientas
 ![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=white&color=181717)
@@ -26,14 +37,25 @@ Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el 
 ### Análisis de Datos e Informes
 🚧Work in Progress <br>
 <a href="https://github.com/RodriManuel/python-data-visualization">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RodriManuel&repo=python-data-visualization&theme=city_lights&hide_border=true&text_color=F8F8FF&title_color=FFD43B&bg_color=">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RodriManuel&repo=python-data-visualization&theme=city_lights&hide_border=true&text_color=F8F8FF&title_color=F8F8FF">
+</a>
+
+### Aplicaciones Web
+🚧Work in Progress <br>
+<a href="https://github.com/RodriManuel/python-data-visualization">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RodriManuel&repo=learning-log&theme=city_lights&hide_border=true&text_color=F8F8FF&title_color=F8F8FF">
+</a>
+
+### Páginas Web
+<a href="https://github.com/RodriManuel/python-data-visualization">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RodriManuel&repo=Glaciares-UNAHUR&theme=city_lights&hide_border=true&text_color=F8F8FF&description_lines_count=2&icon_color=F16529&title_color=F8F8FF">
 </a>
 
 ## Estadísticas en GitHub
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriManuel&theme=nord&hide_border=true&background=306998&currStreakNum=FFFFFF&sideNums=FFFFFF&locale=es&ring=FFE873&fire=FFD43B&sideLabels=FFE873&currStreakLabel=FFD43B&">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriManuel&theme=prussian&hide_border=true">
 </p>
 
 <p align="center">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RodriManuel&langs_count=8&layout=normal&theme=city_lights&hide_border=true&locale=es&title_color=FFD43B&text_color=FFFFFF&bg_color=22476E">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RodriManuel&langs_count=8&layout=pie&theme=prussian&hide_border=true&locale=es&text_color=FFFFFF&hide=Jupyter%20Notebook">
 </p>
