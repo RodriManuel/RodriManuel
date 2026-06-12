@@ -13,7 +13,7 @@ Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el 
 
 ## Mis habilidades
 ### Data
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B&color=3776AB) <br>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B&color=3776AB)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?logoColor=white&color=365C8B)
 ![Plotly](https://img.shields.io/badge/Plotly-white?logo=plotly&logoColor=white&color=7A76FF) <br>
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?&logo=Jupyter&logoColor=white)
@@ -25,7 +25,7 @@ Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el 
 
 ### Web
 ![HTML](https://img.shields.io/badge/HTML5-white?logo=html5&logoColor=white&color=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-white?logo=css&logoColor=white&color=3C99DC) <br>
+![CSS](https://img.shields.io/badge/CSS3-white?logo=css&logoColor=white&color=3C99DC)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&color=7952B3) <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?logo=javascript&logoColor=black&color=F7DF1E)
 
@@ -42,12 +42,12 @@ Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el 
 
 ### Aplicaciones Web
 🚧Work in Progress <br>
-<a href="https://github.com/RodriManuel/python-data-visualization">
+<a href="https://github.com/RodriManuel/learning-log">
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RodriManuel&repo=learning-log&theme=city_lights&hide_border=true&text_color=F8F8FF&title_color=F8F8FF">
 </a>
 
 ### Páginas Web
-<a href="https://github.com/RodriManuel/python-data-visualization">
+<a href="https://github.com/RodriManuel/Glaciares-UNAHUR">
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RodriManuel&repo=Glaciares-UNAHUR&theme=city_lights&hide_border=true&text_color=F8F8FF&description_lines_count=2&icon_color=F16529&title_color=F8F8FF">
 </a>
 
