@@ -20,18 +20,20 @@ Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el 
 
 ### Backend
 ![Django](https://img.shields.io/badge/Django-white?logo=django&logoColor=white&color=092E20)
-![SQLite](https://img.shields.io/badge/SQLite-white?logo=sqlite&logoColor=white&color=black)
+![SQLite](https://img.shields.io/badge/SQLite-white?logo=sqlite&logoColor=white&color=0F80CC)
 
 
 ### Web
 ![HTML](https://img.shields.io/badge/HTML5-white?logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-white?logo=css&logoColor=white&color=3C99DC)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&color=7952B3) <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-white?logo=javascript&logoColor=black&color=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?logo=javascript&logoColor=black&color=F7DF1E) <br>
+![html2canvas](https://img.shields.io/badge/html2canvas-screenshot--engine-%23E34F26?logo=html5&logoColor=white)
 
 ### Otras herramientas
-![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=white&color=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=white&color=181717)
+![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=white&color=F05032) 
+![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=white&color=181717) <br>
+![Vercel](https://img.shields.io/badge/Vercel-black?&logo=vercel&logoColor=white)
 
 ## Proyectos
 ### Análisis de Datos e Informes
@@ -50,7 +52,10 @@ Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el 
 <a href="https://github.com/RodriManuel/Glaciares-UNAHUR">
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RodriManuel&repo=Glaciares-UNAHUR&theme=city_lights&hide_border=true&text_color=F8F8FF&description_lines_count=2&icon_color=F16529&title_color=F8F8FF">
 </a>
-
+<a href="https://github.com/RodriManuel/memoria-activa.git">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RodriManuel&repo=memoria-activa&theme=city_lights&hide_border=true&text_color=F8F8FF&description_lines_count=2&icon_color=F16529&title_color=F8F8FF">
+</a> 
+  
 ## Estadísticas en GitHub
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriManuel&theme=prussian&hide_border=true">
