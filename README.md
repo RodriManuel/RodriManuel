@@ -19,20 +19,29 @@ Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?&logo=Jupyter&logoColor=white)
 
 ### Backend
+![Node.js](https://img.shields.io/badge/Node.js-white?logo=nodedotjs&logoColor=white&color=339933)
+![Express.js](https://img.shields.io/badge/Express.js-white?logo=express&logoColor=white&color=000000)
 ![Django](https://img.shields.io/badge/Django-white?logo=django&logoColor=white&color=092E20)
-![SQLite](https://img.shields.io/badge/SQLite-white?logo=sqlite&logoColor=white&color=0F80CC)
+![Sequelize](https://img.shields.io/badge/Sequelize-white?logo=sequelize&logoColor=white&color=52B0E7)
 
+### Bases de datos
+![SQL](https://img.shields.io/badge/SQL-white?color=00758F)
+![SQLite](https://img.shields.io/badge/SQLite-white?logo=sqlite&logoColor=white&color=0F80CC)
 
 ### Web
 ![HTML](https://img.shields.io/badge/HTML5-white?logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-white?logo=css&logoColor=white&color=3C99DC)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&color=7952B3) <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?logo=javascript&logoColor=black&color=F7DF1E) <br>
-![html2canvas](https://img.shields.io/badge/html2canvas-screenshot--engine-%23E34F26?logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&color=7952B3)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-white?logo=tailwindcss&logoColor=white&color=06B6D4) 
+![Swiper](https://img.shields.io/badge/Swiper-white?logo=swiper&logoColor=white&color=6332F6) <br>
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 ### Otras herramientas
 ![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=white&color=F05032) 
-![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=white&color=181717) <br>
+![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=white&color=181717) 
+![Postman](https://img.shields.io/badge/Postman-white?logo=postman&logoColor=white&color=FF6C37) <br>
+![Netlify](https://img.shields.io/badge/Netlify-white?logo=netlify&logoColor=white&color=00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-black?&logo=vercel&logoColor=white)
 
 ## Proyectos
