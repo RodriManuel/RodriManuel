@@ -67,7 +67,7 @@ Aparte de la informática, me interesan 📖la literatura, 🎥el cine y 🌱el 
   
 ## Estadísticas en GitHub
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriManuel&theme=prussian&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriManuel&theme=prussian&hide_border=true&locale=es">
 </p>
 
 <p align="center">
